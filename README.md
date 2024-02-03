@@ -1,5 +1,5 @@
-# DP2DESAFIOPRATICO2
-Repositório criado para inserir a documentação do desafio proposto na questão 1.
+# DP2 DESAFIOPRATICO 2
+### Repositório criado para inserir a documentação do desafio proposto na questão 1.
 
 A integridade conceitual é crucial para a coerência em sistemas de software, facilitando sua compreensão pelos usuários. Sua ausência dificulta o trabalho da equipe de desenvolvimento, principalmente em termos de manutenção e evolução do sistema, afetando negativamente na experiência do usuário. Sites com informações confusas, dispostos em layouts bagunçados, sem integração dos elementos (textos, imagens, etc), são alguns dos efeitos da falta de integridade conceitual no projeto.
 
