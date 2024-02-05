@@ -1,4 +1,3 @@
-
 public class projetos {
     String NomeProjeto;
     String localizacao;
